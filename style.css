@@ -131,3 +131,211 @@
 }
 
 
+
+
+
+
+.advantages-info {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+.container {
+    height: 100vh;
+    display: flex;
+    padding: 40px 0;
+    gap: 1,2rem;
+    max-width: 1200px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+
+.img-card {
+    max-width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    width: 35%;
+    height: 210px;
+    text-align: center;
+    align-self: center;
+}
+
+
+.cards {
+    padding:0.5rem ;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 20px;
+    border-radius: 10px;
+    
+}
+.imagenes {
+    width: 200%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    align-self: center;
+
+}
+
+
+
+
+
+.card-info {
+    height: 20vh;
+    margin:5% ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.titulo-card {
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+.contactos-user {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imagen-cont {
+    width: 10%;
+    
+}
+
+
+
+
+
+
+.container-cards {
+    display: flex;
+    flex-wrap: wrap;
+    
+
+    gap: 15px;
+    padding: 40px 0;
+    max-width: 1200px;
+    font-size: 16px;
+    
+    
+}
+
+.contactos-ambos {
+    padding: 20px;
+    border-radius: 15px;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+
+}
+
+.info-direccion {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+}
+
+.info-direccion h3 {
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.contactos-ambos p {
+    color: brown;
+    font-size: 16px;
+    font-weight: 400;
+    
+    
+}
+.contactos-info h2 {
+    font-size: 16px;
+    font-weight: 600;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.imagen-redes {
+    display: flex;
+    width: 10%;
+    max-width: 250px;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+}
+
+.img-redes {
+    width: 50px;
+    align-self: center;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 40%;
+    gap: 15px;
+    
+    
+}
+
+.foto-contacto {
+    width: 100px;
+}
+
+.contactos-maps {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.contactos-whats {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.contactos-gmail {
+    display: flex;
+    align-items:center ;
+    gap: 10px;
+}
+
+
+.foto-chica {
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
